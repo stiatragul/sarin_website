@@ -19,17 +19,13 @@ header:
 
 **Australian National University | Canberra, Australia**
 
-My PhD research consist of two parts.
-First I will infer a phylogeny for the Australian blind snakes genus Anilios. This first part will involve extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and figuring out how species are related to each other.
-
-The second part of the project is trying to understand the patterns of diversity we observe today and the morphological differences among different taxa.
-
-This project is supported in part by the Australian Research Council Discovery Grant awarded to Scott Keogh.If you are interested in learning more or collaborating with this project, please contact me.
+My PhD research consist of two parts. First I will infer a phylogeny for the Australian blind snakes genus Anilios. This first part will involve extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and figuring out how species are related to each other. The second part of the project is trying to understand the patterns of diversity we observe today and the morphological differences among different taxa. This project is supported in part by the Australian Research Council Discovery Grant awarded to Scott Keogh.If you are interested in learning more or collaborating with this project, please contact me.
 
 
 ## 2017-2018
 
-![me measuring turtle](experience/mg-4256_orig.jpg)
+<!-- ![me measuring turtle](experience/mg-4256_orig.jpg) -->
+{{< figure src="experience/mg-4256_orig.jpg" title="Eggs of Puerto Rican Crested Anoles" width=70% >}}
 
 **Warner Lab - anoles**
 
@@ -37,15 +33,14 @@ This project is supported in part by the Australian Research Council Discovery G
 
 My masters thesis research sought to find out if nesting behaviour by mother lizards can shield her eggs from non-ideal conditions. The fieldwork for this project was really fun because I got to walk around suburban Miami and look for anole eggs. We got some odd looks from passerby every now and again but every time was a great opportunity to tell a story about mother lizards and her eggs!
 
-This project challenged me to organize a 2.5 month field work in Miami, not give in to mosquitoes, and to consider different ways to analyse data. I learned a lot about where anoles lay their eggs.
-
-Other than my thesis, I also assist in other on-going projects in the Warner Lab and act as a resident IT trouble shooter for my lab mates.
-
+This project challenged me to organize a 2.5 month field work in Miami, not give in to mosquitoes, and to consider different ways to analyse data. I learned a lot about where anoles lay their eggs. Other than my thesis, I also assist in other on-going projects in the Warner Lab and act as a resident IT trouble shooter for my lab mates.
 Co-authors: Nathaniel Pavlik, Josh Hall, and Dan Warner
 
 ## 2015
 
-![me measuring turtle](experience/mg-9418_orig.jpg)
+<!-- ![me measuring turtle](experience/mg-9418_orig.jpg) -->
+
+{{< figure src="experience/mg-9418_orig.jpg" title="Measuring painted turtles *(Chrysemys picta)*" width=70% >}}
 
 **Warner Lab - turtles and anoles**
 
