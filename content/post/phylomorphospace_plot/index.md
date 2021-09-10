@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+Update Sept 2021: For the latest update please visit this [Bitbucket repository](https://bitbucket.org/puttert/blindsnakemorpho/src/master/)
+
 {{< figure src="../../media_post/phylomorpho_plot.png" title="Phylomorphospace and of lateral head shape of *Anilios* preliminary data" >}}
 
 แปะไว้ให้ตัวเองจำ … วันหน้าอาจจะมาเขียน tutorial ดีๆ
