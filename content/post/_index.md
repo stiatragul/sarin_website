@@ -26,8 +26,8 @@ header:
 <!-- ## Make will build the website -->
 <!-- # make -->
 
-
-
 <!-- Command to sync between two folders on Windows and WSL. Edit photos in windows and sync it to WSL folder! -->
 
 <!-- rsync -a  /mnt/c/Users/u6841845/Documents/repo/hugo_site_media/ content/media_post/-->
+
+<!-- 00052fe16551f650000000002 -->
