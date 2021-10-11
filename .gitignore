@@ -12,5 +12,9 @@ node_modules/
 *.jpg
 *.JPEG
 
+# audio
+*.mp3
+*.mp4
+
 content\*.jpg
 
