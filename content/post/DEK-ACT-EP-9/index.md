@@ -28,8 +28,8 @@ image:
 projects: []
 ---
 
-Listen here!
-{{< audio src="../../media_post/podcasts/THAI-20200814_ep9.mp3" >}}
+<!-- Listen here! -->
+<!-- {{< audio src="../../media_post/podcasts/THAI-20200814_ep9.mp3" >}} -->
 
 
 

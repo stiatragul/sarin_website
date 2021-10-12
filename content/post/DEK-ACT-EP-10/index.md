@@ -26,8 +26,8 @@ image:
 projects: []
 ---
 
-Listen here!
-{{< audio src="../../media_post/podcasts/THAI-20200911_ep10.mp3" >}}
+<!-- Listen here! -->
+<!-- {{< audio src="../../media_post/podcasts/THAI-20200911_ep10.mp3" >}} -->
 
 
 Hosts: 

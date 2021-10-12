@@ -6,7 +6,7 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-active: false
+# active: false
 
 # Order that this section appears on the page.
 weight: 60
@@ -18,7 +18,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""
