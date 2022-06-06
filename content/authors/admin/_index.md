@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Sarin Tiatragul
+title: Sarin 'Putter' Tiatragul
+# anno: Sa-RIN
 
 # Is this the primary user of the site?
 superuser: true
