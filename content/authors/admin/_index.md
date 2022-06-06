@@ -15,7 +15,7 @@ organizations:
   url: www.anu.edu.au
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Thai PhD candidate at the Research School of Biology (ANU). I go by the name Putter.
+bio: I'm a Thai PhD candidate at the Research School of Biology (ANU). I go by the name "Putter".
 
 # Interests to show in About widget
 interests:
