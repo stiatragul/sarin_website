@@ -47,12 +47,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/puttert
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/stiatragul
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -77,7 +77,7 @@ I like learning about how organisms come to be the way they are and how we can a
 
 Currently, I am a PhD student in the [Keogh Lab](http://keoghlab.com). at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blind snakes (genus *Anilios*). Before ANU, I completed my M.S. in Biological Sciences at Auburn University supervised by Dr. Dan Warner [Warner Lab](http://warnerlab.weebly.com/people.html).
 
-Besides research, I am keen on photography, scuba diving, football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life. I also ocassionally host a Thai radio program on CMS Radio.
+Apart from research, I am keen on photography, scuba diving, football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life. 
 
 สาริน เตียตระกูล (พัตเตอร์)
 
