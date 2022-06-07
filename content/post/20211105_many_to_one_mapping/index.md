@@ -10,7 +10,7 @@ categories: []
 date: 2021-11-05T08:55:10+11:00
 lastmod: 2021-11-05T08:55:10+11:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -107,7 +107,6 @@ Species richness vs morphological diversity, functional diversity, and ecologica
   1. Many-to-one mapping can partially decouple accumulation of morphological and mechanical diversity within clades.
     - SI in may not vary among species, but parameters that make up SI are different. 
     - MORPHOLOGICAL diversity should NOT be used as proxy for functional diversity
-
 
 ### Intrinsic relationship between form and function that influence diversity
 
