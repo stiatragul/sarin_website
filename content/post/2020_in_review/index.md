@@ -37,7 +37,7 @@ January
 
 February
 
-- *Adelaide, South Australia*. By now, we are all aware of COVID-19 and the possibility that it will spread uncontrollably around the world. Yet, I set out to start collecting measurement data of blind snake specimens in museums. This was the first time I was collecting data for my PhD. Spent two weeks at the South Australian Museum, measuring and photographing blind snake specimens every week day. 
+- *Adelaide, South Australia*. By now, we are all aware of COVID-19 and the possibility that it will spread uncontrollably around the world. Yet, I set out to start collecting measurement data of blindsnake specimens in museums. This was the first time I was collecting data for my PhD. Spent two weeks at the South Australian Museum, measuring and photographing blindsnake specimens every week day. 
 
 March
 
@@ -71,7 +71,7 @@ July
 
 August
 
-- DNA extractions from blind snake tissues and testing for DNA concentrations.
+- DNA extractions from blindsnake tissues and testing for DNA concentrations.
 - Bought website domain (sarintiatragul.com)
 
 September

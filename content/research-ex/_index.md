@@ -15,11 +15,11 @@ header:
 ---
 
 ## 2019 - Present
-**Keogh Lab - Macroevolution of blind snakes in Australia**
+**Keogh Lab - Macroevolution of blindsnakes in Australia**
 
 **Australian National University | Canberra, Australia**
 
-My PhD research consist of two parts. First I will infer a phylogeny for the Australian blind snakes genus Anilios. This first part will involve extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and figuring out how species are related to each other. The second part of the project is trying to understand the patterns of diversity we observe today and the morphological differences among different taxa. This project is supported in part by the Australian Research Council Discovery Grant awarded to Scott Keogh.If you are interested in learning more or collaborating with this project, please contact me.
+My PhD research consist of two parts. First I will infer a phylogeny for the Australian blindsnakes genus *Anilios*. This first part will involve extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and figuring out how species are related to each other. The second part of the project is trying to understand the patterns of diversity we observe today and the morphological differences among different taxa. If you are interested in learning more or collaborating, please contact me.
 
 
 ## 2017-2018
