@@ -1,18 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Nestled in the City Heat: Urban Nesting Behavior Enhances Embryo Development
-  of an Invasive Lizard'
+title: Three-Quarters of Insect Species Are Insufficiently Represented by Protected
+  Areas
 subtitle: ''
 summary: ''
 authors:
+- Shawan Chowdhury
+- Myron P. Zalucki
+- Jeffrey O. Hanson
 - Sarin Tiatragul
-- Joshua M. Hall
-- Daniel A. Warner
-tags: []
+- David Green
+- James E. M. Watson
+- Richard A. Fuller
+tags:
+- conservation
+- conservation planning
+- gap analysis
+- insect conservation
+- national park
+- pollinator
+- pollinator conservation
+- protected area
+- shortfall
 categories: []
-date: '2020-01-01'
-lastmod: 2022-06-07T14:14:22+10:00
+date: '2023-02-01'
+lastmod: 2023-07-08T20:01:02+10:00
 featured: false
 draft: false
 
@@ -30,12 +43,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-08T10:01:15.182744Z'
+publishDate: '2023-07-08T10:01:11.582356Z'
 publication_types:
 - '2'
-abstract: Abstract.  Urbanization transforms many aspects of natural landscapes and
-  poses many new challenges for individual survival and population persistence. Thus,
-  ur
-publication: '*Journal of Urban Ecology*'
-doi: 10.1093/jue/juaa001
+abstract: ''
+publication: '*One Earth*'
+doi: 10.1016/j.oneear.2022.12.003
 ---

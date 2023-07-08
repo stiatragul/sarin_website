@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-06-07T14:14:21+10:00
+lastmod: 2023-07-08T20:01:03+10:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T04:14:21.183395Z'
+publishDate: '2023-07-08T10:01:11.944200Z'
 publication_types:
 - '2'
 abstract: Maternal nesting behavior in oviparous species strongly influences the environmental

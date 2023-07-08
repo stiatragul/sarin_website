@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T04:14:23.233468Z'
+publishDate: '2023-07-08T10:01:16.201824Z'
 publication_types:
 - '2'
 abstract: Human activity causes major changes in natural landscapes via introduction

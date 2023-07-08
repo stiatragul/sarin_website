@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T04:14:22.521866Z'
+publishDate: '2023-07-08T10:01:14.700749Z'
 publication_types:
 - '2'
 abstract: Abstract.  Nesting success is critical for oviparous species to maintain

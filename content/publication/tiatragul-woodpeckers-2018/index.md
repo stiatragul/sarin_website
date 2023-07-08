@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T04:14:22.999766Z'
+publishDate: '2023-07-08T10:01:15.691327Z'
 publication_types:
 - '0'
 abstract: Northern FlickerWoodpeckers encompass 210 species of birds best known for

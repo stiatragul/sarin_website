@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Nestled in the City Heat: Urban Nesting Behavior Enhances Embryo Development
-  of an Invasive Lizard'
+title: "Australia's Hidden Radiation: Phylogenomics Analysis Reveals Rapid Miocene\
+  \ Radiation of Blindsnakes"
 subtitle: ''
 summary: ''
 authors:
 - Sarin Tiatragul
-- Joshua M. Hall
-- Daniel A. Warner
+- Ian G. Brennan
+- Elizabeth S. Broady
+- J. Scott Keogh
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-06-07T14:14:22+10:00
+date: '2023-08-01'
+lastmod: 2023-07-08T20:01:03+10:00
 featured: false
 draft: false
 
@@ -30,12 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-08T10:01:15.182744Z'
+publishDate: '2023-07-08T10:01:12.338652Z'
 publication_types:
 - '2'
-abstract: Abstract.  Urbanization transforms many aspects of natural landscapes and
-  poses many new challenges for individual survival and population persistence. Thus,
-  ur
-publication: '*Journal of Urban Ecology*'
-doi: 10.1093/jue/juaa001
+abstract: ''
+publication: '*Molecular Phylogenetics and Evolution*'
+doi: 10.1016/j.ympev.2023.107812
 ---
