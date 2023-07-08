@@ -96,7 +96,7 @@ December
 
 ## Things I enjoyed in 2020 (not necessary made in the year)
 
-<!-- Film: 
+Film: 
 - 1917 (by Sam Mendes)
 
 Video Games: 
@@ -107,7 +107,7 @@ TV series:
 - Our Planet
 
 Board games: 
-- Settlers of Catan -->
+- Settlers of Catan 
 
 
 There is not doubt that the year 2020 will be remembered for the SARS-CoV-2 (COVID-19) pandemic. The impact of the outbreak is devastating for many and it has revolutionised the way we interact with each other. For instance, as a teaching assistant in classes that were taught remotely (via video conference). I still much prefer seeing students face-to-face, but this mode of teaching is inevitable to become a "new normal."
