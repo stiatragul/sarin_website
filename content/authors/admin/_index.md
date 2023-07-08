@@ -50,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/stiatragul
+- icon: mastodon
+  icon_pack: fab
+  link: https://ecoevo.social/@puttert
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
@@ -73,11 +76,13 @@ email: ""
 highlight_name: false
 ---
 
-I'm fascinated by learning about how organisms came to be the way they are. I enjoy the challenge of working in aspects of biology that are overlooked (could be said about every aspect I suppose), making scientific knowledge understandable for people around the world and bringing people together to do something useful. 
+I'm fascinated by how organisms came to be the way they are. I enjoy learning about natural history, making scientific knowledge understandable for people around the world, and bringing people together to do something fun and useful. 
 
-Currently, I am a PhD Candidate in the [Keogh Lab](http://keoghlab.com) at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blindsnakes (genus *Anilios*). Before coming to the ANU, I completed my M.S. in Biological Sciences at Auburn University under the supervision of Dr. Dan Warner [Warner Lab](http://warnerlab.weebly.com/people.html).
+Currently, I'm a PhD Candidate in the [Keogh Lab](http://keoghlab.com) at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blindsnakes (genus *Anilios*). Before coming to the ANU, I completed my M.S. in Biological Sciences at Auburn University under the supervision of Dr. Dan Warner [Warner Lab](http://warnerlab.weebly.com/people.html).
 
-Apart from research, I enjoy photography, scuba diving, playing and refereeing football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life. 
+Apart from research, I like photography, scuba diving, playing and refereeing football (soccer), and seeing as much of the world as possible. Whenever possible, I spend time in nature and immerse myself into different cultures to appreciate the (bio)diversity of life. 
+
+Thanks for visiting my website!
 
 สาริน เตียตระกูล (พัตเตอร์)
 
