@@ -78,7 +78,7 @@ highlight_name: false
 
 I'm fascinated by how organisms came to be the way they are. I enjoy learning about natural history, making scientific knowledge understandable for people around the world, and bringing people together to do something fun and useful. 
 
-Currently, I'm a PhD Candidate in the [Keogh Lab](http://keoghlab.com) at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blindsnakes (genus *Anilios*). Before coming to the ANU, I completed my M.S. in Biological Sciences at Auburn University under the supervision of Dr. Dan Warner [Warner Lab](http://warnerlab.weebly.com/people.html).
+Currently, I'm a PhD Candidate in the [Keogh Lab](http://keoghlab.com) at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blindsnakes (genus *Anilios*). Before coming to the ANU, I completed my M.S. in Biological Sciences at Auburn University under the supervision of Dr. [Dan Warner](http://warnerlab.weebly.com/people.html).
 
 Apart from research, I like photography, scuba diving, playing and refereeing football (soccer), and seeing as much of the world as possible. Whenever possible, I spend time in nature and immerse myself into different cultures to appreciate the (bio)diversity of life. 
 

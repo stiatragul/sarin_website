@@ -5,10 +5,11 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: m
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: m
 
 # SEO
 
@@ -23,7 +24,7 @@ twitter: 'puttert'
 email: sarin.tiatragul@anu.edu.au
 phone: 
 address:
-  street: 46 Sullivan Drive
+  street: 46 Sullivan Creek Road
   city: Canberra
   region: ACT
   postcode: 2601
