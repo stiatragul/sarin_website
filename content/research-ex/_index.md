@@ -14,12 +14,19 @@ header:
   image: ""
 ---
 
-## 2019 - Present
+## 2024
+**Keogh Lab - Phylogenomics of Australian reptiles**
+
+**Australian National University | Canberra, Australia**
+
+As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees for several groups of Australian reptiles as part of the Australian Amphibian and Reptile Genome (AusARG) project. 
+
+## 2019 - 2024
 **Keogh Lab - Macroevolution of blindsnakes in Australia**
 
 **Australian National University | Canberra, Australia**
 
-My PhD research consist of two parts. First I will infer a phylogeny for the Australian blindsnakes genus *Anilios*. This first part will involve extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and figuring out how species are related to each other. The second part of the project is trying to understand the patterns of diversity we observe today and the morphological differences among different taxa. If you are interested in learning more or collaborating, please contact me.
+My PhD research consisted of two major parts. This first part involved extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and infferring a phylogeny for the Australian blindsnake genus *Anilios*. In the second part I used the phylogeny to test hypotheses about biogeographical history of the group, diversification dynamics, and how traits evolved in this continental radiation of ecologically conserved group. 
 
 
 ## 2017-2018

@@ -43,7 +43,7 @@ February
 
 - Spent two weeks learning how to process micro-CT data using VG Studio Max. I now have a pretty good grasp of how to segment micro-CT scans. Also played a lot of Transport Tycoon.
 - Samples sent for sequencing! Received the first AusARG data set for the blind snakes.
-- First trial match as referee for Capital Football
+<!-- - First trial match as referee for Capital Football -->
 
 March
 
@@ -84,7 +84,7 @@ October
 
 - Worked on writing up my thesis.
 - Applied for PhD-Industry internship with Diversity Arrays Technology
-- RSB hosted Oktoberfest, was hectic!
+<!-- - RSB hosted Oktoberfest, was hectic! -->
 
 November
 
@@ -99,5 +99,5 @@ December
 
 - Submitted first chapter of my thesis to MPE
 - Learned how to dive with two independent cylinders and certified to dive in caves in Australia
-- Finished the main story of Red Dead Redemption 2
-- Completed The Last of Us 2 - a fantastic game with a great story
+<!-- - Finished the main story of Red Dead Redemption 2 -->
+<!-- - Completed The Last of Us 2 - a fantastic game with a great story -->
