@@ -43,7 +43,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:16.201824Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Human activity causes major changes in natural landscapes via introduction
   of non-native species, development on natural habitat, and alteration of local weather
   patterns. These factors contribute to global change and may interact to affect local

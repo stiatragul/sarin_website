@@ -45,7 +45,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:11.582356Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ''
 publication: '*One Earth*'
 doi: 10.1016/j.oneear.2022.12.003

@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:12.745980Z'
 publication_types:
-- '2'
+- 'article'
 abstract: ''
 publication: '*Evolution*'
 doi: 10.1111/evo.13367

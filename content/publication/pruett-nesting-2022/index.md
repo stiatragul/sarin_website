@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:11.944200Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Maternal nesting behavior in oviparous species strongly influences the environmental
   conditions their embryos experience during development. In turn, these early-life
   conditions have consequences for offspring phenotypes and many fitness components

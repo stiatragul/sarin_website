@@ -18,7 +18,7 @@ publishDate: 2023-09-19T12:04:39+10:00
 # 7 = Thesis; 8 = Patent
 projects: []
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ''
 publication: '*Journal of Biogeography*'
 ---

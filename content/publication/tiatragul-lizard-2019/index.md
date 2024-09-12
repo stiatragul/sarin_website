@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:14.700749Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Abstract.  Nesting success is critical for oviparous species to maintain
   viable populations. Many species often do not provide parental care (e.g. oviparous
   rep

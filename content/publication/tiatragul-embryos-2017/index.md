@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:13.697830Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The transformation of natural habitats into urban landscapes dramatically
   alters thermal environments, which in turn, can impact local biota. Ectothermic
   organisms that are oviparous are particularly sensitive to these altered environments

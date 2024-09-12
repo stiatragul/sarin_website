@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:15.691327Z'
 publication_types:
-- '0'
+- 'entry-encyclopedia'
 abstract: Northern FlickerWoodpeckers encompass 210 species of birds best known for
   their distinctive \"head-banging\" behavior. They belong to the order Piciformes
   and the family Picidae, which can be found worldwide except for Madagascar, Australia,

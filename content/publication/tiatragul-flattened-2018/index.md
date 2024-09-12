@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:14.200090Z'
 publication_types:
-- '0'
+- 'entry-encyclopedia'
 abstract: The flattened musk turtle (Sternotherus depressus) is a small species of
   aquatic turtle that is found only in Alabama. They occur exclusively above the fall
   line in the upper Black Warrior River Basin and are Alabama's only endemic (meaning

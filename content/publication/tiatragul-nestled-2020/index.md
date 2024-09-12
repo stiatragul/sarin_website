@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:15.182744Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Abstract.  Urbanization transforms many aspects of natural landscapes and
   poses many new challenges for individual survival and population persistence. Thus,
   ur

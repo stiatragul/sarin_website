@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-07-08T10:01:12.338652Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ''
 publication: '*Molecular Phylogenetics and Evolution*'
 doi: 10.1016/j.ympev.2023.107812
