@@ -44,15 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sarin.tiatragul@anu.edu.au'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/puttert
 - icon: github
   icon_pack: fab
   link: https://github.com/stiatragul
-- icon: mastodon
-  icon_pack: fab
-  link: https://ecoevo.social/@puttert
+# - icon: bluesky
+#   icon_pack: fab
+#   link: https://bsky.app/profile/puttert.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
