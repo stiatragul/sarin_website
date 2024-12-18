@@ -20,7 +20,8 @@ main:
   #   url: 'presentations/'
   #   weight: 20
   - name: Publications
-    url: 'publication/'
+    url: 'https://scholar.google.com/citations?user=TwZonhIAAAAJ&hl=en'
+    # url: 'publication/'
     weight: 40
   # - name: Contact
   #   url: '#contact'
