@@ -7,7 +7,7 @@ title: Sarin 'Putter' Tiatragul
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,7 +15,7 @@ organizations:
   url: www.anu.edu.au
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Thai PhD candidate at the Research School of Biology (ANU). I go by the name "Putter".
+bio: I'm a Thai postdoc at the Research School of Biology (ANU). I go by the name "Putter".
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Biology - Ecology & Evolution
     institution: The Australian National University
-    year: 2019 - current
+    year: 2024
   - course: MSc in Biological Sciences
     institution: Auburn University
     year: 2018
@@ -44,14 +44,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sarin.tiatragul@anu.edu.au'  # For a direct email link, use "mailto:test@example.org".
-- icon: x-twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/puttert
 - icon: github
   icon_pack: fab
   link: https://github.com/stiatragul
 # - icon: bluesky
-#   icon_pack: fab
+#   icon_pack: fas
 #   link: https://bsky.app/profile/puttert.bsky.social
 - icon: google-scholar
   icon_pack: ai
